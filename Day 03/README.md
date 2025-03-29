@@ -13,4 +13,4 @@ This directory contains a continuation of the exercise covering designing a calc
 
 
 ## Getting Started
-The exercise is implemented in the `Day03.rp` file. It is a continuation of the `Day02` exercise. With more interactions added, the calculator is now able to perform some basic operations. To run the exercises, open the `Day03.rp` file in Axure RP 9 and navigate to preview. Screenshots of the pages are provided in the `Day03` directory. (pending)
+The exercise is implemented in the `Calculator.rp` file. It is a continuation of the `Day02` exercise. With more interactions added, the calculator is now able to perform some basic operations. To run the exercises, open the `Calculator.rp` file in Axure RP 9 and navigate to preview. Screenshots of the pages are provided in the `Day03` directory. (pending)
